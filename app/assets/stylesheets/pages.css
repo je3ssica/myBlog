@@ -1,0 +1,30 @@
+nav ul li {
+    display: inline;
+}
+.headline {
+    text-align: center;
+}
+
+.post {
+    background-color: #dbdbdb;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.field_with_errors input, .field_with_errors textarea {
+    border: 1px solid red;
+}
+
+.addPost {
+    float: right;
+}
+
+.title a {
+    text-decoration: none;
+    color: purple;
+}
+
+.editDel {
+    float: right;
+}
